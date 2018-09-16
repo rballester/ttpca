@@ -2,7 +2,7 @@
 
 *TTPCA* is a dimensionality reduction and visualization method for scalar functions that is based on the [tensor train (TT)](https://dl.acm.org/citation.cfm?id=2079149) decomposition.
 
-<img src="https://github.com/rballester/ttpca/raw/master/images/hyperslices.jpg" width="600" title="Plot matrix">
+<img src="https://github.com/rballester/ttpca/raw/master/images/hyperslices.jpg" width="800" title="Plot matrix">
 
 The method is described in the paper *Visualization of High-dimensional Scalar Functions Using Principal Parameterizations* [arXiv](https://arxiv.org/abs/1809.03618):
 
