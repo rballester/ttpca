@@ -4,7 +4,7 @@
 
 <img src="https://github.com/rballester/ttpca/raw/master/images/hyperslices.jpg" width="800" title="Plot matrix">
 
-The method is described in the paper *Visualization of High-dimensional Scalar Functions Using Principal Parameterizations* [arXiv](https://arxiv.org/abs/1809.03618):
+The method is described in the paper [*Visualization of High-dimensional Scalar Functions Using Principal Parameterizations*](https://arxiv.org/abs/1809.03618):
 
 ```
 @ARTICLE{BP:18,
